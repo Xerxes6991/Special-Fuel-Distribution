@@ -19,3 +19,6 @@ The data is sourced from monthly reports submitted by the States based on report
 - Visualized fuel distribution by State in every year (2020, 2021 and 2022)
 
 ### Results
+- The analysis shows the total volume of special fuel distributed each year, showing an increase from 2020 to 2021, followed by a slight decrease in 2022. This trend suggests a peak in special fuel distribution in 2021, with volumes finding its footing in the following year(2022)
+  <img width="668" alt="Screenshot 2024-02-26 063123" src="https://github.com/Xerxes6991/Special-Fuel-Distribution/assets/154422796/285204a9-6abb-4671-90e0-197d1981e720">
+
