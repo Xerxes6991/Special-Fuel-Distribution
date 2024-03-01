@@ -31,5 +31,7 @@ The data is sourced from monthly reports submitted by the States based on report
 - <img width="833" alt="Screenshot 2024-02-29 173335" src="https://github.com/Xerxes6991/Special-Fuel-Distribution/assets/154422796/401eaa25-24f0-4021-abf5-714db1d0b0bd">
 - The bar chart and the data show the top states with the highest volume of special fuel distributed in 2020. Texas leads followed by California, Florida, Ohio, and Pennsylvania. This analysis reveals these states have the highest demand or distribution for special fuels, indicating potential areas of focus for energy policy and infrastructure development.
 
-
-
+### Recommendations
+- Texas is the state with the highest volume received in 3 years. There are many factors that could influence such outcome as Texas  has a large and growing econoomy and population with needs to match of diverse and dynamic customer base, being able to leverage access to the Gulf of Mexico and the large Oil and Gas industry in the state that source and supply fuel products and the large and intense competition in these fuel industries. Texas is expected to maintain and its position by exploitation of these factors.
+- California is the state that comes second in the 3 years of this analysis as there is a large and diverse population and market that caters to the needs of different customer segments. Access to the Pacific rim and the large Ports in California aid the importation and exportation of fuel products to and from other Countries hence a good number of fuel distributors.
+- Florida comes third in this analysis for 3 years as there is high demand and consumption of fuel products and services. 
