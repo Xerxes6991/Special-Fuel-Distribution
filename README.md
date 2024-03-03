@@ -8,7 +8,7 @@ The data is sourced from monthly reports submitted by the States based on report
  - [Link to data source](https://catalog.data.gov/dataset/special-fuel-volumes-distributed)
 
 ### Tools used
-- Python
+- Python (Jupyter Notebook)
 
 ### Analysis
 - Checked the structure of the dataset, including the number of rows and columns, data types, and variable names.
